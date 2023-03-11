@@ -1,0 +1,17 @@
+{
+    "clear sky": "clearSky.gif",
+    "few clouds": "fewClouds.gif",
+    "broken clouds": "brokenClouds.gif",
+    "shower rain": "showerRain.gif",
+    "rain": "showerRain.gif",
+    "thunderstorm": "thunderstorm.gif",
+    "snow": "snow.gif",
+    "mist": "mist.gif",
+    "haze": "fewClouds.gif",
+    "overcast clouds": "fewClouds.gif",
+    "light rain": "showerRain.gif",
+    "fog": "fewClouds.gif",
+    "light intensity drizzle": "showerRain.gif",
+    "light snow": "snow.gif"
+
+} 
