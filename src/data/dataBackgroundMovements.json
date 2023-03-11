@@ -1,17 +1,17 @@
 {
-    "clear sky": "clearSky.gif",
-    "few clouds": "fewClouds.gif",
-    "broken clouds": "brokenClouds.gif",
-    "shower rain": "showerRain.gif",
-    "rain": "showerRain.gif",
-    "thunderstorm": "thunderstorm.gif",
-    "snow": "snow.gif",
-    "mist": "mist.gif",
-    "haze": "fewClouds.gif",
-    "overcast clouds": "fewClouds.gif",
-    "light rain": "showerRain.gif",
-    "fog": "fewClouds.gif",
-    "light intensity drizzle": "showerRain.gif",
-    "light snow": "snow.gif"
-
+    "Clear": "clearSky.gif",
+    "Clouds": "fewClouds.gif",
+    "Drizzle": "showerRain.gif",
+    "Rain": "showerRain.gif",
+    "Thunderstorm": "thunderstorm.gif",
+    "Snow": "snow.gif",
+    "Mist": "mist.gif",
+    "Haze": "fewClouds.gif",
+    "Smoke": "brokenClouds.gif",
+    "Dust": "mist.gif",
+    "Fog": "fewClouds.gif",
+    "Sand": "mist.gif",
+    "Ash": "mist.gif",
+    "Tornado" : "mist.gif",
+    "Squall" : "brokenClouds.gif"
 } 

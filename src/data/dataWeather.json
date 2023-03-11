@@ -1,0 +1,68 @@
+
+ {
+    
+    "thunderstorm with light": "./iconos/7.svg",
+    "thunderstorm with rain": "./iconos/7.svg",
+    "thunderstorm with heavy rain": "./iconos/7.svg",
+    "light thunderstorm": "./iconos/7.svg",
+    "thunderstorm": "./iconos/7.svg",
+    "heavy thunderstorm": "./iconos/7.svg",
+    "ragged thunderstorm": "./iconos/7.svg",
+    "thunderstorm with light drizzle": "./iconos/7.svg",
+    "thunderstorm with drizzle": "./iconos/7.svg",
+    "thunderstorm with heavy drizzl": "./iconos/7.svg",
+    
+
+    "light intensity drizzle": "./iconos/6.svg", 
+    "drizzle": "./iconos/6.svg", 
+    "heavy intensity drizzle":  "./iconos/6.svg",       
+    "light intensity drizzle rain": "./iconos/6.svg",       
+    "drizzle rain": "./iconos/6.svg",     
+    "heavy intensity drizzle rain": "./iconos/6.svg",        
+    "shower rain and drizzle":  "./iconos/6.svg",        
+    "heavy shower rain and drizzle":  "./iconos/6.svg",       
+    "shower drizzle": "./iconos/6.svg", 
+
+    "light rain": "./iconos/5.svg", 
+    "moderate rain": "./iconos/5.svg",
+    "heavy intensity rain": "./iconos/5.svg",  
+    "very heavy rain": "./iconos/6.svg",  
+    "extreme rain": "./iconos/6.svg", 
+    "freezing rain": "./iconos/6.svg",  
+    "light intensity shower rain": "./iconos/5.svg",    
+    "shower rain": "./iconos/5.svg",  
+    "heavy intensity shower rain": "./iconos/5.svg",  
+    "ragged shower rain": "./iconos/5.svg",
+
+    "light snow": "./iconos/8.svg", 
+    "snow": "./iconos/8.svg", 
+    "heavy snow": "./iconos/8.svg", 
+    "sleet": "./iconos/8.svg",
+    "light shower sleet": "./iconos/8.svg",
+    "shower sleet": "./iconos/8.svg",
+    "light rain and snow": "./iconos/8.svg",
+    "rain and snow": "./iconos/8.svg", 
+    "light shower snow ": "./iconos/8.svg",
+    "shower snow": "./iconos/8.svg",
+    "heavy shower snow": "./iconos/8.svg",
+
+    "mist": "./iconos/9.svg", 
+    "smoke": "./iconos/2.svg",
+    "haze": "./iconos/2.svg",
+    "sand/dust whirls": "./iconos/9.svg",
+    "fog":"./iconos/3.svg",
+    "sand": "./iconos/9.svg",
+    "dust" : "./iconos/9.svg",
+    "volcanic ash":  "./iconos/9.svg",
+    "squalls" : "./iconos/9.svg",
+    "tornado":  "./iconos/9.svg",
+
+    "clear sky": "./iconos/1.svg",    
+
+    "few clouds": "./iconos/2.svg",
+    "scattered clouds": "./iconos/3.svg", 
+    "broken clouds": "./iconos/4.svg",
+    "overcast clouds": "./iconos/4.svg"
+ 
+}
+    

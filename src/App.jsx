@@ -2,7 +2,7 @@ import './App.css'
 import { useEffect, useState } from 'react'
 import axios from 'axios'
 import Weather from './components/Weather'
-import DataWeather from './data/weather.json'
+import dataWeather from './data/dataWeather.json'
 import Search from './components/Search'
 import Loader from './components/Loader'
 import dataBackgroundMovements from './data/dataBackgroundMovements.json'
@@ -19,9 +19,7 @@ function App() {
   const cardDarkTheme = darkTheme ? 'ContainerBackgroound' : 'ContainerBackgroound cardDarkTheme'
   const btnDark = darkTheme ? 'btnChange' : 'btnChange btnDark'
 
-
-  useEffect(() => {
-
+  useEffect( () => {
     navigator.geolocation.getCurrentPosition(position => {
       const lat = position.coords.latitude
       const long = position.coords.longitude
@@ -48,7 +46,7 @@ function App() {
 
           <div className='background_animate'>
             <img 
-            src={dataBackgroundMovements[weatherData.weather?.[0].description]} 
+            src={dataBackgroundMovements[weatherData.weather?.[0].main]} 
             alt="background image" />
           </div>
 
@@ -69,10 +67,10 @@ function App() {
           </div>
           
           <div className={cardDarkTheme}></div>
-
+          {/* weatherData.weather?.[0].description */}
           <Weather
           data = {weatherData}
-          icon = {DataWeather[weatherData.weather?.[0].description]}
+          icon = {dataWeather[weatherData.weather?.[0].description]}
           btn = {changeFarenheit}
           />
 
